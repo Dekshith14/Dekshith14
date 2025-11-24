@@ -66,21 +66,21 @@ A Streamlit + Python dashboard for:
 ✔ Supplier Performance  
 ✔ Demand Forecasting  
 **Tech:** Python, Streamlit, Pandas, Visualization  
-🔗 Repo: *(Add link once uploaded)*
+🔗 Repo: *()*
 
 ---
 
 ### 🎥 **Person Re-Identification using Videos (Capstone Project)**
 Modern Re-ID project using semantic features & multi-dimensional embeddings.  
 **Tech:** Python, OpenCV, Deep Learning (CNN + Feature Extractors)  
-🔗 Repo: *(Add link when ready)*
+🔗 Repo: *()*
 
 ---
 
 ### 🤖 **Biped Robot Simulation (ROS2 + Gazebo)**
 URDF model + physics simulation + basic control using ROS2 Humble.  
 **Tech:** ROS2, Gazebo, URDF, C++, Python  
-🔗 Repo: *(Add link when ready)*
+🔗 Repo: *()*
 
 ---
 
@@ -114,8 +114,6 @@ A clean personal portfolio built using HTML/CSS/JS
 ---
 
 ## ✨ Fun Facts  
-- ⏳ I’m building a habit of committing regularly  
-- 🎵 Music + Coding = Perfect combo  
 - ⚡ Love working on realtime apps & robotics simulations  
 - 🌱 Currently exploring **Distributed Systems + Cloud**
 
