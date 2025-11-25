@@ -66,14 +66,14 @@ A Streamlit + Python dashboard for:
 ✔ Supplier Performance  
 ✔ Demand Forecasting  
 **Tech:** Python, Streamlit, Pandas, Visualization  
-🔗 Repo: *()*
+🔗 Repo: https://github.com/Dekshith14/Centralized_Supply_Chain_Dashboard
 
 ---
 
 ### 🎥 **Person Re-Identification using Videos (Capstone Project)**
 Modern Re-ID project using semantic features & multi-dimensional embeddings.  
 **Tech:** Python, OpenCV, Deep Learning (CNN + Feature Extractors)  
-🔗 Repo: *()*
+🔗 Repo: https://github.com/Dekshith14/Person_RE-ID
 
 ---
 
