@@ -106,18 +106,6 @@ A clean personal portfolio built using HTML/CSS/JS
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dekshith14&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Fun Facts  
-- ⚡ Love working on realtime apps & robotics simulations  
-- 🌱 Currently exploring **Distributed Systems + Cloud**
-
----
 
 ## 📫 Connect With Me  
 <p>
