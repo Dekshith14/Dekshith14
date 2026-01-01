@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🎓 4th-year CSE student at **PES University, Bangalore**  
 - 💻 Interested in **Distributed Systems, Cloud Computing, ML, Real-time applications, and Buisness Analytics**  
 - 🔭 Currently working on: **Person Re-Identification using Videos (Major Project) **  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Tech Stack  
+## Tech Stack  
 
 ### **Languages**
 <p>
