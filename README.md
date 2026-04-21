@@ -116,3 +116,6 @@ A clean personal portfolio built using HTML/CSS/JS
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**  
+
+
+<img src="https://raw.githubusercontent.com/johanmontorfano/johanmontorfano/output/snake.svg" alt="Snake animation" />
